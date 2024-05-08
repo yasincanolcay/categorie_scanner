@@ -1,0 +1,2 @@
+Please download Spire.Office.8.4.0.nupkg for c# developming
+you can download from visual studio/tools/nupgkg package manager
