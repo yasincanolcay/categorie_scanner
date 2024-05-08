@@ -1,0 +1,36 @@
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\pdf viewer.exe.config
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\pdf viewer.exe
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\pdf viewer.pdb
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Barcode.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.DataExport.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.DataExport.ResourceMgr.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Doc.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.DocViewer.Forms.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Email.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.OfficeViewer.Forms.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Pdf.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.PdfViewer.Asp.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.PdfViewer.Forms.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Presentation.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Spreadsheet.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.XLS.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Microsoft.mshtml.dll
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Barcode.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.DataExport.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Doc.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.DocViewer.Forms.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Email.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.OfficeViewer.Forms.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Pdf.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.PdfViewer.Asp.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.PdfViewer.Forms.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Presentation.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.Spreadsheet.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\bin\Release\Spire.XLS.xml
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\obj\Release\pdf_viewer.Form1.resources
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\obj\Release\pdf_viewer.Properties.Resources.resources
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\obj\Release\pdf viewer.csproj.GenerateResource.cache
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\obj\Release\pdf viewer.csproj.CoreCompileInputs.cache
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\obj\Release\pdf viewer.csproj.CopyComplete
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\obj\Release\pdf viewer.exe
+C:\flutterprojelerim\categorie_scanner\lib\data\pdf viewer\pdf viewer\obj\Release\pdf viewer.pdb
